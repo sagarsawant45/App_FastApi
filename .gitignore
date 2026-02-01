@@ -34,8 +34,9 @@ google-services.json
 *.hprof
 
 # environment variable files
-.env
-.env.*
+__pycache__/
+myenv
+myenv.*
 
 # Node modules
 node_modules/
